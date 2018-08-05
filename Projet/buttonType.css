@@ -1,0 +1,11 @@
+.button{
+    /*-fx-text-fill: #ffff00;*/
+    /*-fx-background-color: #0000ff;*/
+    /*-fx-border-radius: 20;*/
+    -fx-background-radius: 20;
+    /*-fx-padding: 5;*/
+	-fx-font-size: 8px;
+	-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+	-fx-pref-height: 19px;
+    -fx-pref-width: 30px;
+}
